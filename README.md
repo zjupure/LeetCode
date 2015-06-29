@@ -2,7 +2,7 @@
 
 LeetCode OJ Solutions and Notes
 
-Every questions has a C or C++ solutions in the folder named by the question and numbers. In each folder, there is a description file to introduce the question and a .c or .cpp file to solve the question.
+Each question has a C or C++ solution in the folder named by the question and serial number. In the subfolder, there are a description file to introduce the question in detail and a .c or .cpp file to solve the question.
 
 Reprint please give the link address: <https://github.com/mypure/LeetCode>
 
