@@ -14,7 +14,7 @@ begin to intersect at node c1.
 
 Notes:
 
-    * If the two linked lists have no intersection at all, return null.
+    * If the two linked lists have no intersection at all, return `null`.
     * The linked lists must retain their original structure after the function returns.
     * You may assume there are no cycles anywhere in the entire linked structure.
     * Your code should preferably run in O(n) time and use only O(1) memory.
@@ -22,3 +22,5 @@ Notes:
 Credits:
 
 Special thanks to @stellari for adding this problem and creating all test cases.
+
+Tags: Linked List
